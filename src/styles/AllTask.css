@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@500;600&family=Inter:wght@100&family=PT+Sans:ital@1&family=Red+Hat+Display:wght@300&family=Roboto:wght@100;300;400;700&family=Rubik:wght@300;400&family=Signika+Negative&family=Silkscreen&display=swap');
+
+.add-new{
+  color:  #7c20be;
+  font-size: 18px;
+  font-weight: 500;
+}
+.all-task{
+  font-family: 'Signika Negative' ;
+  background-color:#FAF9FB;
+  height: 220vh;
+}
+.top{
+  font-size: 50px;
+  font-weight: 600;
+}
+.bin{
+  width: 14px;
+  padding-bottom: 0.2rem;
+}
+.edit{
+  width: 16px;
+}
+.text{
+  background-color:#FAF9FB;
+}
+.btn-1{
+  padding: 0.4rem 1.5rem;
+  background-color: #7c20be;
+  color: white;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  
+}
+.btn-2{
+  padding: 0.3rem 1.5rem;
+  background-color: white;
+  color: #7c20be;
+  cursor: pointer;
+  border: 1px solid #7c20be;
+  margin-right: 0.3rem;
+  border-radius: 5px;
+}
+/* .urgent{
+  font-size:20px ;
+  font-weight: 400;
+  margin-left: 0.3rem;
+
+}
+.urgent2{
+  color:  #73C3A6;
+  font-size:20px ;
+  font-weight: 400;
+  margin-left: 0.3rem;
+} */
+.footer{
+  font-size: 18px;
+  font-weight: 500;
+  color: #7c20be;
+  border: none;
+}
+.title{
+  margin-left: 1rem;
+}
